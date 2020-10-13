@@ -10,6 +10,7 @@ A: give more time debugging the problem so it does not take long
 
 
 #getBarcodeData
+
 P: 10mins
 
 D: 40mins
